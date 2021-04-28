@@ -3,14 +3,10 @@
    "message":"Employees salary report data",
    "data":{
       "heads":[
-        {'component_name': 'ACCOUNT NO', 'slug': 'account_no'},
-        {'component_name': 'DR/CR', 'slug': 'dr_cr'}, 
-        {'component_name': 'AMOUNT', 'slug': 'amount'}, 
-        {'component_name': 'NARRATION', 'slug': 'narration'}, 
+    
       ],
       "rows":[
-         {'account_no': 0, 'dr_cr': "Total", 'amount': 0, 'narration': 0},
-         {'account_no': 1, 'dr_cr': "Total", 'amount': 2, 'narration': 8}
+     
       ]
    }
 }
