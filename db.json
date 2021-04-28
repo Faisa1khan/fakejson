@@ -9,8 +9,8 @@
         {'component_name': 'NARRATION', 'slug': 'narration'}, 
       ],
       "rows":[
-         {account_no: 0, dr_cr: "Total", amount: 0, narration: 0},
-         {account_no: 1, dr_cr: "Total", amount: 2, narration: 8},
+         {'account_no': 0, 'dr_cr': "Total", 'amount': 0, 'narration': 0},
+         {'account_no': 1, 'dr_cr': "Total", 'amount': 2, 'narration': 8}
       ]
    }
 }
